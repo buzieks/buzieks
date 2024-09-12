@@ -7,4 +7,7 @@ My name is Brandon. I work everyday to become a software developer. One day I ho
 ## 💬 Things I have used in the past:
   - Python
   - C++
-  - HTML + CSS  
+  - HTML + CSS
+  - React.js
+  - Tailwind CSS
+  - Node.js
